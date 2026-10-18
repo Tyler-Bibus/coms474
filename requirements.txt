@@ -1,0 +1,15 @@
+# Models and image datasets
+torch
+torchvision
+Pillow
+
+# Analysis, evaluation, and progress reporting
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+
+# Notebook environment
+jupyterlab
+ipykernel
