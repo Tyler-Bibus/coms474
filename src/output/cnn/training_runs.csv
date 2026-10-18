@@ -1,0 +1,10 @@
+run_id,batch_size,learning_rate,seed,checkpoint,loaded_from_cache,best_epoch,best_tuning_accuracy,best_tuning_loss,training_seconds,tuning_seconds
+grid_bs64_lr0.0001_seed67_7c848101074b,64,0.0001,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs64_lr0.0001_seed67_7c848101074b.pt,False,10,0.2158,3.447281336975098,131.59505730611272,9.82939200301189
+grid_bs64_lr0.0003_seed67_529704f80409,64,0.0003,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs64_lr0.0003_seed67_529704f80409.pt,False,10,0.2222,3.4328970375061036,128.26772853109287,9.391881332034245
+grid_bs64_lr0.001_seed67_95acb7724ff0,64,0.001,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs64_lr0.001_seed67_95acb7724ff0.pt,False,9,0.005,5.298319465637207,132.20842004398583,9.475024354003835
+grid_bs128_lr0.0001_seed67_0405855a47ee,128,0.0001,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs128_lr0.0001_seed67_0405855a47ee.pt,False,10,0.1806,3.655389862060547,109.26181444100803,9.143885518831667
+grid_bs128_lr0.0003_seed67_fc6b4ffb17fd,128,0.0003,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs128_lr0.0003_seed67_fc6b4ffb17fd.pt,False,10,0.2179,3.456646343994141,110.57834661303787,9.378795774944592
+grid_bs128_lr0.001_seed67_3b1f9e0cc100,128,0.001,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs128_lr0.001_seed67_3b1f9e0cc100.pt,False,10,0.1274,4.050598434448242,105.02016430004733,8.894483823038172
+grid_bs256_lr0.0001_seed67_6ed96d4cc983,256,0.0001,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs256_lr0.0001_seed67_6ed96d4cc983.pt,False,10,0.1406,3.9193982009887693,98.57003006798914,9.098184688889887
+grid_bs256_lr0.0003_seed67_e070f883e267,256,0.0003,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs256_lr0.0003_seed67_e070f883e267.pt,False,10,0.2043,3.5158762893676756,99.29753472807351,8.971641879936215
+grid_bs256_lr0.001_seed67_61338217dd59,256,0.001,67,/home/tyler/coms474/src/output/cnn/checkpoints/grid_bs256_lr0.001_seed67_61338217dd59.pt,False,10,0.1456,3.900728514099121,98.43840043613454,8.999709577998146

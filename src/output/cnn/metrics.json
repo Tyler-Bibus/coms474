@@ -1,0 +1,17 @@
+{
+  "model": "AlexNet adapted for 64x64",
+  "best_run_id": "grid_bs64_lr0.0003_seed67_529704f80409",
+  "parameter_count": 4755464,
+  "train_accuracy": 0.2494111111111111,
+  "held_out_accuracy": 0.224,
+  "accuracy_gap_train_minus_held_out": 0.025411111111111107,
+  "selected_model_training_seconds": 128.26772853109287,
+  "grid_training_seconds": 1013.2374964674818,
+  "bootstrap_training_seconds": 405.6244921008474,
+  "total_training_seconds": 1418.8619885683293,
+  "empirical_bootstrap_bias_squared": 0.8679918519349853,
+  "empirical_bootstrap_variance": 0.017577756469464335,
+  "bootstrap_expected_brier_score": 0.8855696084044498,
+  "bootstrap_repeats": 3,
+  "bias_variance_note": "Summed squared probability error against observed one-hot labels. Finite bootstrap estimate, not a decomposition of top-1 error; irreducible label noise is not separately identifiable."
+}
