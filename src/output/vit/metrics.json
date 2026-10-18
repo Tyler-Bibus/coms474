@@ -1,0 +1,19 @@
+{
+  "model": "ViT with learned 1D position embeddings",
+  "best_run_id": "grid_bs128_lr0.0003_seed67_bb31d76184c7",
+  "parameter_count": 4856776,
+  "cnn_reference_parameter_count": 4755464,
+  "parameter_difference_percent": 2.1304335391877594,
+  "train_accuracy": 0.30485555555555555,
+  "held_out_accuracy": 0.2652,
+  "accuracy_gap_train_minus_held_out": 0.039655555555555555,
+  "selected_model_training_seconds": 175.50034099404002,
+  "grid_training_seconds": 1867.4428294491954,
+  "bootstrap_training_seconds": 527.6081556117279,
+  "total_training_seconds": 2395.0509850609233,
+  "empirical_bootstrap_bias_squared": 0.8439457715210134,
+  "empirical_bootstrap_variance": 0.018685763525488445,
+  "bootstrap_expected_brier_score": 0.8626315350465018,
+  "bootstrap_repeats": 3,
+  "bias_variance_note": "Summed squared probability error against observed one-hot labels. Finite bootstrap estimate, not a decomposition of top-1 error; irreducible label noise is not separately identifiable."
+}

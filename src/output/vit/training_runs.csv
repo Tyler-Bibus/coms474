@@ -1,0 +1,10 @@
+run_id,batch_size,learning_rate,seed,checkpoint,loaded_from_cache,best_epoch,best_tuning_accuracy,best_tuning_loss,training_seconds,tuning_seconds
+grid_bs64_lr0.0001_seed67_c0b276c15083,64,0.0001,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs64_lr0.0001_seed67_c0b276c15083.pt,False,10,0.2544,3.2624221702575684,315.4860168189625,13.116334344027564
+grid_bs64_lr0.0003_seed67_b55d66a7e438,64,0.0003,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs64_lr0.0003_seed67_b55d66a7e438.pt,False,10,0.2615,3.2919951698303223,299.2939171419712,11.961761459009722
+grid_bs64_lr0.001_seed67_9135a347daf7,64,0.001,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs64_lr0.001_seed67_9135a347daf7.pt,False,10,0.1524,3.984831674194336,307.85942795622395,12.803576244972646
+grid_bs128_lr0.0001_seed67_ccd3e9457309,128,0.0001,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs128_lr0.0001_seed67_ccd3e9457309.pt,False,10,0.2398,3.3872125061035154,176.20733086095424,10.503871015971527
+grid_bs128_lr0.0003_seed67_bb31d76184c7,128,0.0003,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs128_lr0.0003_seed67_bb31d76184c7.pt,False,10,0.2676,3.2369703384399413,175.50034099404002,10.466570044925902
+grid_bs128_lr0.001_seed67_4d1c48560fe2,128,0.001,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs128_lr0.001_seed67_4d1c48560fe2.pt,False,10,0.2251,3.480366480636597,184.302863067016,10.655315822106786
+grid_bs256_lr0.0001_seed67_c016382acc22,256,0.0001,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs256_lr0.0001_seed67_c016382acc22.pt,False,10,0.2146,3.5517963611602785,136.59654209500877,10.094487823953386
+grid_bs256_lr0.0003_seed67_5f8725d15111,256,0.0003,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs256_lr0.0003_seed67_5f8725d15111.pt,False,10,0.2657,3.2272710861206053,135.57432434899965,10.023940021987073
+grid_bs256_lr0.001_seed67_c42b1d23ff72,256,0.001,67,/home/tyler/coms474/src/output/vit/checkpoints/grid_bs256_lr0.001_seed67_c42b1d23ff72.pt,False,10,0.2351,3.430428273010254,136.62206616601907,9.98656970699085

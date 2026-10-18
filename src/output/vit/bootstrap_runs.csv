@@ -1,0 +1,4 @@
+run_id,batch_size,learning_rate,seed,checkpoint,loaded_from_cache,best_epoch,best_tuning_accuracy,best_tuning_loss,training_seconds,tuning_seconds
+bootstrap_bs128_lr0.0003_seed1067_98565798677f,128,0.0003,1067,/home/tyler/coms474/src/output/vit/checkpoints/bootstrap_bs128_lr0.0003_seed1067_98565798677f.pt,False,10,0.2519,3.331885306549072,177.10567391186487,10.517538095882628
+bootstrap_bs128_lr0.0003_seed1068_1581a86e0e9b,128,0.0003,1068,/home/tyler/coms474/src/output/vit/checkpoints/bootstrap_bs128_lr0.0003_seed1068_1581a86e0e9b.pt,False,10,0.2526,3.340136058807373,176.86921495193383,10.48430065595312
+bootstrap_bs128_lr0.0003_seed1069_0f8fef8a3951,128,0.0003,1069,/home/tyler/coms474/src/output/vit/checkpoints/bootstrap_bs128_lr0.0003_seed1069_0f8fef8a3951.pt,False,10,0.2608,3.2935909324645998,173.63326674792916,10.017144357960206
